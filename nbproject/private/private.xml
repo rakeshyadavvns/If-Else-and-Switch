@@ -3,14 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/F:/IfElse/src/ifelse/currency.java</file>
-            <file>file:/F:/IfElse/src/ifelse/divisibility.java</file>
-            <file>file:/F:/IfElse/src/ifelse/IfElse.java</file>
-            <file>file:/F:/IfElse/src/ifelse/angled.java</file>
-            <file>file:/F:/IfElse/src/ifelse/even.java</file>
-            <file>file:/F:/IfElse/src/ifelse/month.java</file>
-            <file>file:/F:/IfElse/src/ifelse/equation.java</file>
-            <file>file:/F:/IfElse/src/ifelse/time.java</file>
+            <file>file:/F:/IfElse/src/switchpackage/SwitchSample.java</file>
+            <file>file:/F:/IfElse/src/switchpackage/Switchdiv.java</file>
+            <file>file:/F:/IfElse/src/switchpackage/SwitchLeapyear.java</file>
+            <file>file:/F:/IfElse/src/switchpackage/SwitchMonth.java</file>
+            <file>file:/F:/IfElse/src/switchpackage/SwitchAddeven.java</file>
         </group>
     </open-files>
 </project-private>
